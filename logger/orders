@@ -1,2 +1,0 @@
-export LOG_DIR=/var/data/logger
-autodeploy https://github.com/igroff/logar.git
