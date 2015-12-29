@@ -3,5 +3,5 @@
 sudo curl https://github.com/stedolan/jq/releases/download/jq-1.5/jq-linux64 -o /usr/bin/jq -L
 sudo chmod +x /usr/bin/jq
 sudo apt-get update
-sudo apt-get install aria2c --assume-yes
+sudo apt-get install aria2 --assume-yes
 
